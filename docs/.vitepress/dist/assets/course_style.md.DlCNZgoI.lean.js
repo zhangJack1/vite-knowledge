@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as a,ax as n}from"./chunks/framework.C27rVojO.js";const F=JSON.parse('{"title":"样式美化","description":"","frontmatter":{},"headers":[],"relativePath":"course/style.md","filePath":"course/style.md"}'),l={name:"course/style.md"},p=n("",110),h=[p];function k(t,e,E,r,d,g){return i(),a("div",null,h)}const o=s(l,[["render",k]]);export{F as __pageData,o as default};

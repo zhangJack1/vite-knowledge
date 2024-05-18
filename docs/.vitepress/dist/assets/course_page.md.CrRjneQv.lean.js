@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as a,ax as n}from"./chunks/framework.C27rVojO.js";const b=JSON.parse('{"title":"页面","description":"","frontmatter":{},"headers":[],"relativePath":"course/page.md","filePath":"course/page.md"}'),l={name:"course/page.md"},p=n("",119),e=[p];function h(t,k,r,E,d,g){return i(),a("div",null,e)}const u=s(l,[["render",h]]);export{b as __pageData,u as default};
